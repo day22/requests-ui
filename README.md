@@ -53,7 +53,7 @@ View the response content and headers in the designated areas.
 
 ## Screenshots
 
-!["User interface"](https://postimg.cc/216CX10W)
+!["User interface"](https://i.postimg.cc/y8hWx99L/mailman.png)
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.

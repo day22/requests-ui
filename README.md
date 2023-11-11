@@ -6,12 +6,12 @@
 This Python Tkinter project provides a graphical user interface (GUI) for the popular requests library. With this application, users can easily make HTTP requests and evaluate the responses without the need for coding. It simplifies the process of interacting with web APIs and testing HTTP endpoints.
 ## Features
 
-User-Friendly Interface: Intuitive GUI for making HTTP requests.
-Supports Various HTTP Methods: GET, POST, PUT, DELETE, etc
-~~Customizable Headers and Parameters: Easily add headers and parameters to your requests.~~ [Coming Soon]
-View and Analyze Responses: Display the response content and headers for easy evaluation.
-~~History: Maintain a history of your recent requests for quick access.~~ [Coming Soon]
-~~Copy-Paste Requests: Paste cURL commands and convert them to HTTP requests.~~ [Coming Soon]
+- User-Friendly Interface: Intuitive GUI for making HTTP requests.
+- Supports Various HTTP Methods: GET, POST, PUT, DELETE, etc
+- ~~Customizable Headers and Parameters: Easily add headers and parameters to your requests.~~ [Coming Soon]
+- View and Analyze Responses: Display the response content and headers for easy evaluation.
+- ~~History: Maintain a history of your recent requests for quick access.~~ [Coming Soon]
+- ~~Copy-Paste Requests: Paste cURL commands and convert them to HTTP requests.~~ [Coming Soon]
 
 ## Requirements
 
